@@ -1,6 +1,6 @@
 import numpy as np
 
-N=10000000
+N = 10000000
 
 x = np.random.uniform(0,1,N)
 y = np.random.uniform(0,1,N)
