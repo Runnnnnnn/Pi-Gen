@@ -4,4 +4,4 @@ MC: Pi Generation
 
 -Apply Pythagorean theorem to obtain the points within the quarter circle (d=1)
 
--Count the number of points within the quarter circle and multiply by 4 to get the value Pi
+-Count the number of points within the quarter circle and divide it by total simulation N, then multiply by 4 to get the value Pi
