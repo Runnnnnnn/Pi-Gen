@@ -1,3 +1,1 @@
-MC: Pi Generation
-
-A MC method to generate π
+A simple MC method to generate π
